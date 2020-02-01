@@ -1,0 +1,108 @@
+html
+{
+	min-height: 100%;
+	font-family: sans-serif;
+}
+
+body
+{
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #696969;
+	text-align: center;
+	color: white;
+}
+
+#homediv
+{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+#header
+{
+	font-size: xx-large;
+	font-family: garamond, serif;
+	font-weight: bold;
+	text-align: left;
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	background-color: #702963;
+	color: white;
+	
+	border-bottom: 3px solid black;
+}
+
+#header-text
+{
+	padding-left: 40px;
+	text-shadow: 2px 2px black;
+}
+
+#header-sub
+{
+	font-size: medium;
+	font-weight: normal;
+}
+
+#content
+{
+	background-color: #F0EAD6;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	border-bottom: 6px ridge grey;
+	
+	min-height: 100%;
+}
+
+#content-nav
+{
+	font-weight: bold;
+	padding-top: 6px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+
+#content-generator
+{
+	display: block;
+}
+
+#content-about
+{
+	display: block;
+	visibility: hidden;
+}
+
+#generator-selections
+{
+	display: block;
+	text-align: left;
+}
+
+.generator-selection-item
+{
+	display: block;
+}
+
+#content-results
+{
+	display: block;
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	font-weight: bold;
+	font-size: x-large;
+	line-height: 150%;
+}

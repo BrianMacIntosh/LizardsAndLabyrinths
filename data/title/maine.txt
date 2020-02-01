@@ -1,0 +1,13 @@
+﻿{{noun}} {{noun}}
+{{noun}}
+{{noun}}: {{noun}}
+{{noun}} & {{noun}}
+{{adjective}} {{noun}}
+{{noun}}, {{noun}}
+{{adverb}} {{noun}}
+{{noun}} ({{noun}})
+{{verb}} {{noun}}
+{{noun}} {{adjective}}
+{{adjective}} {{noun}}
+{{noun}}?
+{{adjective}}

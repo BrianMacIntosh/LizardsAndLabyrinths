@@ -1,0 +1,27 @@
+{{include|include/weapon_medieval_melee_polearm}}
+{{include|include/weapon_medieval_melee_dagger}}
+Arming sword
+Shortsword
+Zweihander
+Claymore
+Longsword
+Broadsword
+Falchion
+Flamberge
+Sabre
+Katana
+Ulfberht
+Battle axe
+Club
+Flail
+Mace
+Flanged mace
+Pernach
+Shestopyor
+Maul
+Morning star
+Quarterstaff
+War hammer
+Bec de Corbin
+Horseman's pick
+Bludgeon
