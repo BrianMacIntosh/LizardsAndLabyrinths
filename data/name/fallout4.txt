@@ -1,1 +1,4 @@
 {{insert|include/fallout4}} {{insert|include/fallout4}}
+{{insert|include/fallout4}} {{insert|include/fallout4}}
+{{insert|include/fallout4}} {{insert|include/fallout4}}
+{{insert|include/fallout4}} {{insert|include/fallout4}} {{insert|include/fallout4}}
